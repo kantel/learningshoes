@@ -1,0 +1,19 @@
+# Pango Modules file
+# Automatically generated file, do not edit
+#
+# ModulesPath = /Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules
+#
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-arabic-lang.so ArabicScriptEngineLang PangoEngineLang PangoRenderNone arabic:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-basic-coretext.so BasicScriptEngineCoreText PangoEngineShape PangoRenderCoreText common:
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-basic-fc.so BasicScriptEngineFc PangoEngineShape PangoRenderFc common:
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so devaIndicScriptEngineLang PangoEngineLang PangoRenderNone devanagari:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so bengIndicScriptEngineLang PangoEngineLang PangoRenderNone bengali:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so guruIndicScriptEngineLang PangoEngineLang PangoRenderNone gurmukhi:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so gujrIndicScriptEngineLang PangoEngineLang PangoRenderNone gujarati:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so oryaIndicScriptEngineLang PangoEngineLang PangoRenderNone oriya:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so tamlIndicScriptEngineLang PangoEngineLang PangoRenderNone tamil:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so teluIndicScriptEngineLang PangoEngineLang PangoRenderNone telugu:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so kndaIndicScriptEngineLang PangoEngineLang PangoRenderNone kannada:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so mlymIndicScriptEngineLang PangoEngineLang PangoRenderNone malayalam:*
+/Users/admin/Dropbox/learningruby/Helloshoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so sinhIndicScriptEngineLang PangoEngineLang PangoRenderNone sinhala:*
+
