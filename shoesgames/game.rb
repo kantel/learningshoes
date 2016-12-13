@@ -2,7 +2,7 @@
 
 FPS = 15
 
-xspeed, yspeed = 4, 3
+xspeed, yspeed = 4, 2
 xdir, ydir = 1, 1
 
 Shoes.app :width => 640, :height => 320, :resizable => false do
@@ -22,7 +22,7 @@ Shoes.app :width => 640, :height => 320, :resizable => false do
     ydir *= -1 if y > self.height - size[1] or y < 0
 
     if xdir == 1 then
-      if frame % 2 == 0 then
+      if frame % 4 < 2 then
         hero.path = "images/mnv1_rt1.gif"
       else
         hero.path = "images/mnv1_rt2.gif"
@@ -30,7 +30,7 @@ Shoes.app :width => 640, :height => 320, :resizable => false do
     end
 
     if xdir == -1 then
-      if frame % 2 == 0 then
+      if frame % 4 < 2 then
         hero.path = "images/mnv1_lf1.gif"
       else
         hero.path = "images/mnv1_lf2.gif"
