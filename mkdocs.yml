@@ -1,4 +1,4 @@
-site_name: Cognitiones Privatae
+site_name: Keiner kennt Shoes
 theme: readthedocs
 
 pages:
@@ -11,6 +11,10 @@ markdown_extensions:
     smart_quotes: False
 - pymdownx.tasklist
 
-site_dir: "/Applications/MAMP/htdocs/nevernote"
+site_dir: "/Applications/MAMP/htdocs/learningshoes"
 
 extra_css: [css/user.css]
+
+edit_uri: blob/master/docs
+
+repo_url: "https://github.com/kantel/learningshoes"

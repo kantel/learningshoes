@@ -1,6 +1,6 @@
-# Cognitiones Privatae
+# Keiner kennt Shoes
 
-![Silo](images/silo.gif)
+![Silo](images/shoesmoos.jpg)
 
 Mein persönliches Notizbuch als Alternative zu Evernote. Mit Markdown und 😇 &nbsp; statischen Seiten gelingt die Flucht aus den Datensilos dieser Welt!
 
