@@ -2,9 +2,8 @@
 
 ![Silo](images/shoesmoos.jpg)
 
-Mein persönliches Notizbuch als Alternative zu Evernote. Mit Markdown und 😇 &nbsp; statischen Seiten gelingt die Flucht aus den Datensilos dieser Welt!
-
-Jetzt auch in Verbindung mit meinem Android-Tablet und meinem iPhone (jeweils via iAWriter). Da ich unterwegs nicht immer auch noch mit der `mkdocs.yml` herumfummeln will, habe ich für die schnellen Notizen [eine Seite als Zwischenspeicher](dailynotes.md) angelegt.
+Deine Mutter sagte Klaus   
+Zieh Dir bloß die Schuhe aus.
 
 ## Links
 
@@ -28,6 +27,6 @@ Jetzt auch in Verbindung mit meinem Android-Tablet und meinem iPhone (jeweils vi
 ## (Live-) Server starten
 
 ~~~bash
-cd ~/Dropbox/nevernote
+cd ~/git/learningshoes
 mkdocs serve
 ~~~
